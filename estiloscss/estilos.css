@@ -1,0 +1,44 @@
+body{
+    background-color:#2FFA;
+}
+
+.bienvenido{
+    background-color:#F9F4E4;
+}
+.textogrande{
+color:#F2F6F6;
+font-size: 9rem;
+text-align: left;
+}
+.titulos{
+color:#7377DE;
+text-align: left;
+}
+.textoparrafo{
+    line-height: 25px;
+    font-size: 25px;
+    background-color:#E6E454;
+}
+.p{
+    text-align: justify;
+}
+.imagenRedonda{
+    width: 298px;
+    height: 298px;
+    border-radius: 149px;
+    border-radius:150px;
+    border:10px solid #666;
+}
+.centrartexto{
+    margin: auto;
+    display: block;
+}
+.fondotarjetas{
+    background-color: #FFE6CC;
+}
+.todotexto{
+background: paleturquoise;
+width: 495px;
+height: 210px;
+border: 8px solid rgb(115, 223, 126);
+}
