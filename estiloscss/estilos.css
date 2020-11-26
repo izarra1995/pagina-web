@@ -40,5 +40,5 @@ text-align: left;
    background: paleturquoise;
    width: 150%;
    height: 160px;
-   border: 2px solid rgb(65, 109, 124);
+   border-left: 2px solid rgb(65, 109, 124);
 }
