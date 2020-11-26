@@ -39,6 +39,5 @@ text-align: left;
 .todotexto{
    background: paleturquoise;
    width: 150%;
-   height: 160px;
-   border-left: 2px solid rgb(65, 109, 124);
+   border: 4px solid rgb(65, 109, 124);
 }
